@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajytak
 - 👀 I’m interested in all types of ariel vehicles especially Unmanned aerial vehicles
 - 🌱 I’m currently learning python, ROS and more about robotics and UAV's
-- 📫 How to reach me, my email: ajytak@gamil.com
+- 📫 How to reach me, my email: ajytak@gmail.com
                    
 
 <!---
