@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ajytak
-- 👀 I’m interested in all types of aerial vehicles especially Unmanned aerial vehicles
-- 🌱 I’m currently learning python, ROS and more about robotics and UAV's
+- 👀 I’m interested in controls of various systems ranging from UAVs to Satellite's and Launch Vehicles
 - 📫 How to reach me, my email: ajytak@gmail.com
                    
 
