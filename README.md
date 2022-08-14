@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajytak
-- 👀 I’m interested in controls of various systems ranging from UAVs to Satellite's and Launch Vehicles
+- 👀 I’m interested in controls of various systems ranging from UAVs to Satellites and Launch Vehicles
 - 📫 How to reach me, my email: ajytak@gmail.com
                    
 
